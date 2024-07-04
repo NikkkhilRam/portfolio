@@ -69,10 +69,7 @@ function Skills() {
             <SiPostman color="black" size={28} title="Java" />
             <p>Postman</p>
           </div>
-          <div className="flex items-center gap-1 text-black bg-white p-1 ">
-            <FaDocker color="black" size={28} title="Java" />
-            <p>Docker</p>
-          </div>
+          
           <div className="flex items-center gap-1 text-black bg-white p-1 ">
             <FaGithub color="black" size={28} title="Java" />
             <p>GitHub</p>
@@ -81,10 +78,7 @@ function Skills() {
             <SiRedux color="black" size={28} title="Java" />
             <p>Redux</p>
           </div>
-          <div className="flex items-center gap-1 text-black bg-white p-1 ">
-            <TbBrandReactNative color="black" size={28} title="Java" />
-            <p>React Native</p>
-          </div>
+         
         </div>
         <div className="flex flex-wrap gap-4 mt-4 justify-center">
           <p className="bg-white text-black px-2 py-1">HTML</p>
